@@ -1,2 +1,2 @@
-# bankingapringauth
+# bankingapiauth
 Banking service for authentication
